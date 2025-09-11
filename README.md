@@ -4,7 +4,6 @@ Este trabajo forma parte del Máster en Big Data y Business Analytics (UNED) y t
 
 El análisis se ha realizado en **Python (Google Colab)**, utilizando librerías como `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost` y `catboost`.  
 
----
 
 ## Índice
 
@@ -21,9 +20,8 @@ El análisis se ha realizado en **Python (Google Colab)**, utilizando librerías
    6.2. Modelo XGBoost  
    6.3. Modelo CatBoost  
 7. Propuesta de Productivización  
-8. Conclusiones y Recomendaciones  
+8. Conclusiones y Recomendaciones
 
----
 
 ## Resumen del trabajo
 
@@ -37,14 +35,12 @@ El proyecto sigue todas las fases de un flujo de trabajo de Data Science:
 - **Productivización**: propuesta para desplegar el modelo en un entorno real y utilizarlo en la toma de decisiones.  
 - **Conclusiones**: principales hallazgos, limitaciones y recomendaciones futuras.  
 
----
 
 ## Cómo ver el notebook
 
 Puedes acceder directamente al análisis en Google Colab desde aquí:  
 👉 [Mostrar proyecto](https://colab.research.google.com/drive/1rsCp9EbmdbHxAqMJN0hyuIanz5zr7ZlE?usp=sharing)
 
----
 
 ## Autora
 
